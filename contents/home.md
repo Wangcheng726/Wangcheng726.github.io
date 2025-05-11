@@ -1,20 +1,10 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+I'm currently pursuing a Bachelor's degree in Information Engineering at SJTU Paris Elite Institute of Technology(SPEIT), a joint institute of Shanghai Jiao Tong University and ParisTech.
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Email
+<code>18782940589@sjtu.edu.cn</code>
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+Education
+Shanghai Jiao Tong University - SPEIT, B.Eng in Information Engineering (2022 – Present)
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+Research Interests
+Artificial Intelligence/Multi Agent Systems
